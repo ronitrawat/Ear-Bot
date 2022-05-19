@@ -1,5 +1,5 @@
 # Ear-bot
-Suven Consultants Online (HTML+ CSS+ Bootstrap) Internship : Project-1
+Suven Consultants Online (HTML+ CSS+ Bootstrap) Internship : Project-3
 
 EarBot is online support portal for music system products.
 
